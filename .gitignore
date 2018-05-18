@@ -1,0 +1,5 @@
+Makefile
+tmp.py
+*.pyc
+dist/*
+.idea/*
