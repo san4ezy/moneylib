@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="moneylib",
-    version=__import__('moneylib').__version__,
+    version=__import__('money').__version__,
     description=open(os.path.join(os.path.dirname(__file__), "DESCRIPTION")).read(),
     license="The MIT License (MIT)",
     keywords="moneylib, currency",

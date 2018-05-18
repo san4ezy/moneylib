@@ -3,3 +3,4 @@ tmp.py
 *.pyc
 dist/*
 .idea/*
+Money.egg-info/*
